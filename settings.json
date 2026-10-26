@@ -1,4 +1,4 @@
-{
+ {
   "name": "AFK Bot",
   "bot-account": {
     "username": "PerzaanLive",
@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
+    "ip": "thunder-smp.mcsh.gg",
     "port": 75375,
     "version": "1.21.1"
   },
